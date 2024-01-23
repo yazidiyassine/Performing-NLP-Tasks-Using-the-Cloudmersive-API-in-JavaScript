@@ -2,7 +2,7 @@ import './App.css';
 import Main from './components/Main';
 
 function App() {
-  const API_KEY = '736c1230-f664-499d-b145-d42c0cfaafa1';
+  const API_KEY = '**';
   const headers = {
       "Content-Type": "application/x-www-form-urlencoded",
       "Apikey": API_KEY
